@@ -29,4 +29,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=senesh-akm&show_icons=true&locale=en&layout=compact" alt="senesh-akm" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkandeveloper&show_icons=true&locale=en" alt="furkandeveloper" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=senesh-akm&" alt="senesh-akm" /></p>
