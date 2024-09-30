@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [e-Voting System](https://github.com/senesh-akm/e-voting-system)
 
-- 🌱 I’m currently learning **Python, Frappe, Django, Flutter**
+- 🌱 I’m currently learning **Python, Frappe, Django, Dart, Flutter**
 
 - 👯 I’m looking to collaborate on [Automotive Dealer Mate](https://github.com/senesh-akm/Automotive-Dealer-Mate)
 
