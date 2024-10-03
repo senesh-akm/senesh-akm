@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senesh-akm" alt="senesh-akm" /></a> </p>
 
-- 🔭 I’m currently working on [e-Voting System](https://github.com/senesh-akm/e-voting-system)
+- 🔭 I’m currently working on [Automotive Dealer Mate](https://github.com/senesh-akm/Automotive-Dealer-Mate)
 
 - 🌱 I’m currently learning **Python, Frappe, Django, Dart, Flutter**
 
