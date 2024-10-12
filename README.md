@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senesh-akm" alt="senesh-akm" /></a> </p>
 
-- 🔭 I’m currently working on [Automotive Dealer Mate](https://github.com/senesh-akm/Automotive-Dealer-Mate)
+- 🔭 I’m currently working on [Automotive Dealer Mate](https://github.com/senesh-akm/automotive-dealer-mate)
 
 - 🌱 I’m currently learning **Python, Frappe, Django, Dart, Flutter**
 
-- 👯 I’m looking to collaborate on [Automotive Dealer Mate](https://github.com/senesh-akm/Automotive-Dealer-Mate)
+- 👯 I’m looking to collaborate on [Automotive Dealer Mate](https://github.com/senesh-akm/automotive-dealer-mate)
 
 - 💬 Ask me about **React, Angular, Laravel, Spring, ASP.Net**
 
