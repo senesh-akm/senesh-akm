@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Employee Management System](https://github.com/senesh-akm/employee-management)
 
-- 🌱 I’m currently learning **Python, Frappe, Django, Dart, Flutter**
+- 🌱 I’m currently learning **Frappe, Dart, Flutter**
 
 - 👯 I’m looking to collaborate on [Automotive Dealer Mate](https://github.com/senesh-akm/automotive-dealer-mate)
 
