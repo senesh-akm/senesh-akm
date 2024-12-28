@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senesh-akm" alt="senesh-akm" /></a> </p>
 
-- 🔭 I’m currently working on [Employee Management System](https://github.com/senesh-akm/employee-management)
+- 🔭 I’m currently working on [Employee Management System](https://github.com/senesh-akm/employee_management_new)
 
 - 🌱 I’m currently learning **Frappe, Dart, Flutter**
 
