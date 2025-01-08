@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on [Automotive Dealer Mate](https://github.com/senesh-akm/automotive-dealer-mate)
 
-- 💬 Ask me about **React, Angular, Laravel, Spring, C#**
+- 💬 Ask me about **React, Angular, Laravel, Django, Vue**
 
 - 📫 How to reach me **seneshak2001@gmail.com**
 
