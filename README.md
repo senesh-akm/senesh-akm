@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senesh Akmeemana</h1>
-<h3 align="center">Software Engineer from Sri Lanka</h3>
+<h3 align="center">Full Stack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senesh-akm&label=Profile%20views&color=0e75b6&style=flat" alt="senesh-akm" /> </p>
 
