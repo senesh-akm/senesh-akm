@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senesh-akm" alt="senesh-akm" /></a> </p>
 
-- 🔭 I’m currently working on [Online Examination System](https://github.com/senesh-akm/online_examination_system)
+- 🔭 I’m currently working on [Laravel POS System](https://github.com/senesh-akm/pos-system)
 
 - 🌱 I’m currently learning **Frappe, Dart, Flutter**
 
